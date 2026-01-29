@@ -5,6 +5,6 @@
 </head>
 <body>
 	<hi>
-	<p></p>
+	<p>lorem</p>
 </body>
 </html>
